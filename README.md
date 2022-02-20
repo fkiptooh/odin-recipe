@@ -1,2 +1,2 @@
 # odin-recipe
-Mastering the Html links, images and links.
+Mastering the html, links, images and basic ordering list attributes.
